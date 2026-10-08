@@ -115,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1791445174424</updated>
-      <workItem from="1791445175374" duration="485000" />
+      <workItem from="1791445175374" duration="514000" />
     </task>
     <task id="LOCAL-00001" summary="just pushing ig">
       <option name="closed" value="true" />
@@ -133,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791445290517</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="just pushing ig">
+      <option name="closed" value="true" />
+      <created>1791445666666</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1791445666667</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
