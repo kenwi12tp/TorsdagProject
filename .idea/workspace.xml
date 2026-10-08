@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="26247f34-2c09-4488-b8ac-85799bf4a65c" name="Changes" comment="" />
+    <list default="true" id="26247f34-2c09-4488-b8ac-85799bf4a65c" name="Changes" comment="just pushing ig" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +12,65 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0319039985772744" />
+      <entry key="MS500" value="1.835056430173367" />
+      <entry key="S2" value="3.4320935746720864" />
+      <entry key="S5" value="4.243685403499603" />
+      <entry key="S10" value="4.595561941656493" />
+      <entry key="S30" value="4.858815243594291" />
+      <entry key="S60" value="4.928575224659248" />
+      <entry key="M2" value="4.964076715476672" />
+      <entry key="M5" value="4.985579708267609" />
+      <entry key="M10" value="4.992781327396736" />
+      <entry key="M15" value="4.995185654507352" />
+      <entry key="M30" value="4.997591878142768" />
+      <entry key="H1" value="4.998795701687531" />
+      <entry key="H2" value="4.999397791484531" />
+      <entry key="H4" value="4.999698880900798" />
+      <entry key="D1" value="4.99994981142201" />
+      <entry key="W1" value="4.999992830152658" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9816548007434212" />
+      <entry key="MS500" value="1.8103916431034772" />
+      <entry key="S2" value="3.4100348863930843" />
+      <entry key="S5" value="4.230280634252573" />
+      <entry key="S10" value="4.587778100629762" />
+      <entry key="S30" value="4.85594135705211" />
+      <entry key="S60" value="4.927100647187243" />
+      <entry key="M2" value="4.963329801887758" />
+      <entry key="M5" value="4.985278604658106" />
+      <entry key="M10" value="4.992630383523459" />
+      <entry key="M15" value="4.9950849379556" />
+      <entry key="M30" value="4.997541476171226" />
+      <entry key="H1" value="4.998770489769545" />
+      <entry key="H2" value="4.999385182791446" />
+      <entry key="H4" value="4.9996925758706015" />
+      <entry key="D1" value="4.999948760488682" />
+      <entry key="W1" value="4.999992680017" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8,
@@ -21,13 +83,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -45,11 +115,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1791445174424</updated>
-      <workItem from="1791445175374" duration="2000" />
+      <workItem from="1791445175374" duration="485000" />
     </task>
+    <task id="LOCAL-00001" summary="just pushing ig">
+      <option name="closed" value="true" />
+      <created>1791445256898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1791445256898</updated>
+    </task>
+    <task id="LOCAL-00002" summary="just pushing ig">
+      <option name="closed" value="true" />
+      <created>1791445290517</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1791445290517</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="just pushing ig" />
+    <option name="LAST_COMMIT_MESSAGE" value="just pushing ig" />
   </component>
 </project>
